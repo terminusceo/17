@@ -100,8 +100,8 @@ function App() {
         <s.ContentWrapper>
           <s.IntroductionGif src="/config/images/art1.gif" alt="Introduction Gif" />
           <s.IntroductionText>
-            <s.Subtitle>Six Press: The Intersection of Mathematical Beauty and Digital Artistry</s.Subtitle>
-            <s.Text>In the vast expanse of digital creation, the number 6 emerges as a symbol of harmony, symmetry, and balance. Six Press captures this essence, merging mathematical elegance of the number with boundless creativity of the digital age. Each of our 1296 collectibles is a testament to this fusion, a blend of deliberate planning and artistic inspiration.</s.Text>
+            <s.Subtitle>Six Press: Intersection of Mathematical Beauty and Digital Artistry</s.Subtitle>
+            <s.Text>In the vast expanse of digital creation, number 6 emerges as a symbol of harmony, symmetry and balance. Six Press captures this essence, merging mathematical elegance of the number with boundless creativity of the digital age. Each of our 1296 collectibles is a testament to this fusion, a blend of deliberate planning and artistic inspiration.</s.Text>
             <s.Text>At the heart of Six Press lies a commitment to meticulous art of design. Every piece is a product of intricate calculations, ensuring that form and function move together in a dance of symmetry and precision. </s.Text>
             <s.Text>Six Press: A symphony of chaos and order, where the art of symmetry meets digital precision</s.Text>
           </s.IntroductionText>
@@ -132,7 +132,7 @@ function App() {
             {/* Place your text here */}
             <p>
 
-              At Six Press, every form narrates a tale of passion and the balance between chaos and order. Each artwork is not just a visual experience;
+              At Six Press, every form narrates a tale of passion and balance between chaos and order. Each artwork is not just a visual experience;
               it's a journey. A dance of age-old craftsmanship with digital intricacies, inviting viewers into a world of art and algorithm.</p>
           </s.ArtTextPlaceholder>
         </div>
