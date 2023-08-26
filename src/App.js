@@ -111,7 +111,7 @@ function App() {
 
       <s.ArtSection data-aos="fade-up" data-aos-duration="2000">
         <div style={{ display: 'flex', alignItems: 'center', flexDirection: 'column' }}>
-          <s.ArtTextTitle>De Factory art</s.ArtTextTitle> {/* Title or text above the art */}
+          <s.ArtTextTitle>Six Press art</s.ArtTextTitle> {/* Title or text above the art */}
           <div style={{ display: 'flex', alignItems: 'center' }}>
             <s.ArrowLeft onClick={() => setCurrentGif(currentGif === 0 ? gifs.length - 1 : currentGif - 1)}>
               &#8592;
