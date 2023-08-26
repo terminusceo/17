@@ -79,7 +79,7 @@ function App() {
 
 
       <s.ScrollContainer>
-        <s.StyledLink href="https://opensea.io/collection/six-press" target="_blank" rel="noopener noreferrer">
+        <s.StyledLink href="https://opensea.io/collection/six-press-1" target="_blank" rel="noopener noreferrer">
           <s.CustomButton>OpenSea</s.CustomButton>
         </s.StyledLink>
 
