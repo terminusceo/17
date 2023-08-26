@@ -30,7 +30,7 @@ function App() {
   const [faqItems, setFaqItems] = useState([
     {
       question: "THE ORIGIN",
-      answer: "Six Press is an ode to the mesmerizing power of the number six. With 1296 unique collectibles, our project fuses the natural allure of mathematical beauty and symmetrical artistry with avant-garde digital craftsmanship. Six Press isn’t just about art; it’s about the harmonious blend of nature's patterns and human creation.",
+      answer: "Six Press is an ode to the mesmerizing power of number six. With 1296 unique collectibles, our project fuses the natural allure of mathematical beauty and symmetrical artistry with avant-garde digital craftsmanship. Six Press isn’t just about art; it’s about the harmonious blend of nature's patterns and human creation.",
       isOpen: false
     },
     {
@@ -45,7 +45,7 @@ function App() {
     },
     {
       question: "OUR CREATORS",
-      answer: "At Six Press, our creators stand at the intersection of time-honored artistry and cutting-edge technology. They’ve mastered the delicate balance of chaos and order, meticulously crafting each collectible to resonate with both the heart and mind.",
+      answer: "At Six Press, our creators stand at intersection of time-honored artistry and cutting-edge technology. They’ve mastered delicate balance of chaos and order, meticulously crafting each collectible to resonate with both the heart and mind.",
       isOpen: false
     },
     // Add more questions and answers as needed
@@ -101,8 +101,8 @@ function App() {
           <s.IntroductionGif src="/config/images/art1.gif" alt="Introduction Gif" />
           <s.IntroductionText>
             <s.Subtitle>Six Press: The Intersection of Mathematical Beauty and Digital Artistry</s.Subtitle>
-            <s.Text>In the vast expanse of digital creation, the number 6 emerges as a symbol of harmony, symmetry, and balance. Six Press captures this essence, merging the mathematical elegance of the number with the boundless creativity of the digital age. Each of our 1296 collectibles is a testament to this fusion, a blend of deliberate planning and artistic inspiration.</s.Text>
-            <s.Text>At the heart of Six Press lies a commitment to the meticulous art of design. Every piece is a product of intricate calculations, ensuring that form and function move together in a dance of symmetry and precision. </s.Text>
+            <s.Text>In the vast expanse of digital creation, the number 6 emerges as a symbol of harmony, symmetry, and balance. Six Press captures this essence, merging mathematical elegance of the number with boundless creativity of the digital age. Each of our 1296 collectibles is a testament to this fusion, a blend of deliberate planning and artistic inspiration.</s.Text>
+            <s.Text>At the heart of Six Press lies a commitment to meticulous art of design. Every piece is a product of intricate calculations, ensuring that form and function move together in a dance of symmetry and precision. </s.Text>
             <s.Text>Six Press: A symphony of chaos and order, where the art of symmetry meets digital precision</s.Text>
           </s.IntroductionText>
         </s.ContentWrapper>
@@ -123,7 +123,7 @@ function App() {
           </div>
           <s.ArtTextPlaceholder>
             {/* Place your text here */}
-            <p>Six Press is where artistry meets precision. Within the 1296 collectibles, the spirit of the number six shines through each pixel,
+            <p>Six Press is where artistry meets precision. Within the 1296 collectibles, the spirit of number six shines through each pixel,
               blending ancient tradition with the new age of digital creation. It's a collection where nature's symmetries meet mathematical beauty.
             </p>
           </s.ArtTextPlaceholder>
