@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x9050B369eAB4686fE2410638b07D6f7178D9bB14",
+  "SCAN_LINK": "https://etherscan.io/0x9050B369eAB4686fE2410638b07D6f7178D9bB14",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Six Press",
+  "SYMBOL": "SIX",
+  "MAX_SUPPLY": 1296,
+  "WEI_COST": 99000000000000000,
+  "DISPLAY_COST": 0.09900000,
+  "GAS_LIMIT": 140000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/six-press",
+  "SHOW_BACKGROUND": true
+}
