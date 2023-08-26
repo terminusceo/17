@@ -15,7 +15,7 @@ AOS.init();
 
 function App() {
   const dispatch = useDispatch();
-  const gifs = ["/config/images/art1.gif", "/config/images/art2.gif", "/config/images/art3.gif", "/config/images/art4.gif", "/config/images/art5.gif", "/config/images/art6.gif"];
+  const gifs = ["/config/images/art2.gif","/config/images/art1.gif",  "/config/images/art3.gif", "/config/images/art4.gif", "/config/images/art5.gif", "/config/images/art6.gif"];
   const [currentGif, setCurrentGif] = useState(0);
 
   const handleNextGif = () => {
